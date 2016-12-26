@@ -11,6 +11,7 @@
         <module>log4j-demo</module>
         <module>slf-logback-demo</module>
         <module>slf-log4j-demo</module>
+        <module>log4j2-demo</module>
     </modules>
     <packaging>pom</packaging>
 
